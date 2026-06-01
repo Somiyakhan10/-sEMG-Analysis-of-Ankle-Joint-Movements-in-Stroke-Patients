@@ -50,4 +50,4 @@ Traditional stroke rehabilitation assessment lacks objective, quantifiable feedb
 | K-Nearest Neighbors (KNN) | 73.1% |
 | Support Vector Machine (SVM) | 71.2% |
 
-## Repository Structure
+
